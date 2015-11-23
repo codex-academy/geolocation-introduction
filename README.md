@@ -25,6 +25,8 @@ Submit the form from the client using javascript.
 
 ### Using `AJAX`
 
+* Needs API
+* POST to create data
 
 ## Drawing on maps:
 
